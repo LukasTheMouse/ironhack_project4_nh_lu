@@ -1,2 +1,2 @@
-# ironhack_project4_nh_lu
-Group project Ironhack Niharika &amp; Lukas
+This the code used to export data in  csv files  to sql database.
+
