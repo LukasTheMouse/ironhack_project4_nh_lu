@@ -5,6 +5,5 @@
 
 
 <h1>Content<h1>
-
 <p>This dataset comprises two files with running times from business and recreationist runners that participated in the dam tot damloop 2016 - 2018</p>
 
